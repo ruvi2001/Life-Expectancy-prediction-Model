@@ -1,4 +1,4 @@
-#Life Expectancy predicting system based on the country 
+##Life Expectancy predicting system based on the country 
 
 Collaborated on a group project to develop a life expectancy predicting system 
 using Python. Conducted data preprocessing, exploratory data analysis (EDA), and 
